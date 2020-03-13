@@ -1,0 +1,6 @@
+com\mycom\runner\TestRunner.class
+com\mycom\pages\LoginPage.class
+com\mycom\pages\BasePage.class
+com\mycom\stepdefinitions\LoginStepDefinition.class
+com\mycom\stepdefinitions\TestSetUpDefinition.class
+com\mycom\utils\Log.class
